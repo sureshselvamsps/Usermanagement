@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_headers">
+    <sys_rest_message_fn_headers action="INSERT_OR_UPDATE">
+        <name>Accept</name>
+        <rest_message_function display_value="Default GET">11640bb2dbd7f740a76773eb8c9619c5</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_headers</sys_class_name>
+        <sys_created_by>rle0505</sys_created_by>
+        <sys_created_on>2019-08-20 07:35:03</sys_created_on>
+        <sys_id>03b487b2dbd7f740a76773eb8c9619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Accept</sys_name>
+        <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+        <sys_update_name>sys_rest_message_fn_headers_03b487b2dbd7f740a76773eb8c9619c6</sys_update_name>
+        <sys_updated_by>rle0505</sys_updated_by>
+        <sys_updated_on>2019-08-20 07:35:03</sys_updated_on>
+        <value>application/json</value>
+    </sys_rest_message_fn_headers>
+</record_update>

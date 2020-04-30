@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Jira User Request Cloud">c1c1cffedb97f740a76773eb8c96193c</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>rle0505</sys_created_by>
+        <sys_created_on>2019-08-20 07:21:16</sys_created_on>
+        <sys_id>1dc1cffedb97f740a76773eb8c961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of Jira User Request by RLCatalyst.SNC External</sys_name>
+        <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_1dc1cffedb97f740a76773eb8c961952</sys_update_name>
+        <sys_updated_by>rle0505</sys_updated_by>
+        <sys_updated_on>2019-08-20 07:21:16</sys_updated_on>
+        <user_criteria display_value="">ef732976db13d740033b9c27db96197a</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

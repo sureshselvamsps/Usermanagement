@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="User Onboard Jira" max_length="40" name="x_14768_user_servi_user_onboard_jira" type="collection">
+        <element label="Email" mandatory="true" max_length="40" name="email" type="string"/>
+        <element label="Full Name" mandatory="true" max_length="40" name="full_name" type="string"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element label="Password" mandatory="true" max_length="255" name="password" type="password2"/>
+        <element label="User Name" mandatory="true" max_length="20" name="user_name" type="string"/>
+    </element>
+</database>

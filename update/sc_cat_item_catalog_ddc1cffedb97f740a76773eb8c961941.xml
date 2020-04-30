@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Jira User Request Cloud">c1c1cffedb97f740a76773eb8c96193c</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>rle0505</sys_created_by>
+        <sys_created_on>2019-08-20 07:21:15</sys_created_on>
+        <sys_id>ddc1cffedb97f740a76773eb8c961941</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Jira User Request by RLCatalyst</sys_name>
+        <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_ddc1cffedb97f740a76773eb8c961941</sys_update_name>
+        <sys_updated_by>rle0505</sys_updated_by>
+        <sys_updated_on>2019-08-20 07:21:15</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

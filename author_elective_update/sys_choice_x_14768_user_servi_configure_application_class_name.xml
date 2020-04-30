@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="class_name" table="x_14768_user_servi_configure_application" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jira</label>
+            <language>en</language>
+            <name>x_14768_user_servi_configure_application</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-27 08:27:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5bf733efdb985810bc8b5fc74b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-27 08:27:31</sys_updated_on>
+            <value>Jira</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Netsuite</label>
+            <language>en</language>
+            <name>x_14768_user_servi_configure_application</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-27 08:27:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9bf733efdb985810bc8b5fc74b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-27 08:27:31</sys_updated_on>
+            <value>Netsuite</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Office365</label>
+            <language>en</language>
+            <name>x_14768_user_servi_configure_application</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-27 08:27:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbf733efdb985810bc8b5fc74b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-27 08:27:31</sys_updated_on>
+            <value>Office365</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>class_name</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RLCatalyst</label>
+            <language>en</language>
+            <name>x_14768_user_servi_configure_application</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-27 08:27:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ff733efdb985810bc8b5fc74b961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-27 08:27:31</sys_updated_on>
+            <value>RLCatalyst</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>class_name</element>
+            <name>x_14768_user_servi_configure_application</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-27 08:27:31</sys_created_on>
+            <sys_id>13f733efdb985810bc8b5fc74b961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>class_name</sys_name>
+            <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+            <sys_update_name>sys_choice_x_14768_user_servi_configure_application_class_name</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-27 08:27:31</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</application>
+        <file_path/>
+        <instance_id>a5fd0dd6db46b3488aea21c405961961</instance_id>
+        <instance_name>dev87865</instance_name>
+        <name>sys_choice_x_14768_user_servi_configure_application_class_name</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="class_name" table="x_14768_user_servi_configure_application" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>class_name</element><hint/><inactive>false</inactive><label>Jira</label><language>en</language><name>x_14768_user_servi_configure_application</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 08:27:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5bf733efdb985810bc8b5fc74b961917</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 08:27:31</sys_updated_on><value>Jira</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>class_name</element><hint/><inactive>false</inactive><label>Netsuite</label><language>en</language><name>x_14768_user_servi_configure_application</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 08:27:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bf733efdb985810bc8b5fc74b961917</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 08:27:31</sys_updated_on><value>Netsuite</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>class_name</element><hint/><inactive>false</inactive><label>Office365</label><language>en</language><name>x_14768_user_servi_configure_application</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 08:27:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>dbf733efdb985810bc8b5fc74b961917</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 08:27:31</sys_updated_on><value>Office365</value></sys_choice><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>class_name</element><hint/><inactive>false</inactive><label>RLCatalyst</label><language>en</language><name>x_14768_user_servi_configure_application</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 08:27:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1ff733efdb985810bc8b5fc74b961917</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 08:27:31</sys_updated_on><value>RLCatalyst</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>class_name</element><name>x_14768_user_servi_configure_application</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-27 08:27:31</sys_created_on><sys_id>13f733efdb985810bc8b5fc74b961918</sys_id><sys_mod_count>0</sys_mod_count><sys_name>class_name</sys_name><sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package><sys_policy/><sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope><sys_update_name>sys_choice_x_14768_user_servi_configure_application_class_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-27 08:27:31</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-2097846337</payload_hash>
+        <record_name>Configure Application.Class Name</record_name>
+        <reverted_from/>
+        <source>1e608b70db101010bc8b5fc74b9619bb</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2020-04-18 15:21:24</sys_created_on>
+        <sys_id>c40873efdb985810bc8b5fc74b96196e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1718de149200000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Choice list</type>
+        <update_guid>840873ef639858103f16a5e3d0a6896e</update_guid>
+        <update_guid_history>840873ef639858103f16a5e3d0a6896e:-2097846337</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-27 08:27:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>13f733efdb985810bc8b5fc74b961918</sys_id>
+        <sys_metadata>13f733efdb985810bc8b5fc74b961918</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>class_name</sys_name>
+        <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+        <sys_scope_delete display_value="">5fe7ed524a174401be1a303d2dad5649</sys_scope_delete>
+        <sys_update_name>sys_choice_x_14768_user_servi_configure_application_class_name</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_14768_user_servi_configure_application_class_name">c40873efdb985810bc8b5fc74b96196e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-27 08:27:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

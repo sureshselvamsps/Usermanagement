@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_14768_user_servi_user_onboard_jira</description>
+        <name>x_14768_user_servi_user_onboard_jira</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>rle0505</sys_created_by>
+        <sys_created_on>2019-08-09 09:41:43</sys_created_on>
+        <sys_id>6368361bdb4f7b00a76773eb8c9619c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_14768_user_servi_user_onboard_jira</sys_name>
+        <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+        <sys_update_name>sys_security_acl_6368361bdb4f7b00a76773eb8c9619c4</sys_update_name>
+        <sys_updated_by>rle0505</sys_updated_by>
+        <sys_updated_on>2019-08-09 09:41:43</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

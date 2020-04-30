@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Configure Application" max_length="40" name="x_14768_user_servi_configure_application" type="collection">
+        <element choice="1" label="Class Name" mandatory="true" max_length="40" name="class_name" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Jira" value="Jira"/>
+                <element inactive_on_update="false" label="Netsuite" value="Netsuite"/>
+                <element inactive_on_update="false" label="Office365" value="Office365"/>
+                <element inactive_on_update="false" label="RLCatalyst" value="RLCatalyst"/>
+            </choice>
+        </element>
+        <element label="Password" mandatory="true" max_length="255" name="password" type="password2"/>
+        <element label="Url" mandatory="true" max_length="100" name="url" type="string"/>
+        <element label="Username" mandatory="true" max_length="40" name="username" type="string"/>
+    </element>
+</database>

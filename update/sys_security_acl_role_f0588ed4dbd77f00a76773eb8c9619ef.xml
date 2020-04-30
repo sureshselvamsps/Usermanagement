@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>rle0505</sys_created_by>
+        <sys_created_on>2019-08-12 08:45:28</sys_created_on>
+        <sys_id>f0588ed4dbd77f00a76773eb8c9619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_14768_user_servi_configure_application.x_14768_user_servi.configure_application_user</sys_name>
+        <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+        <sys_security_acl display_value="x_14768_user_servi_configure_application">7c588ed4dbd77f00a76773eb8c9619dc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f0588ed4dbd77f00a76773eb8c9619ef</sys_update_name>
+        <sys_updated_by>rle0505</sys_updated_by>
+        <sys_updated_on>2019-08-12 08:45:28</sys_updated_on>
+        <sys_user_role display_value="x_14768_user_servi.configure_application_user" name="x_14768_user_servi.configure_application_user">ec588ed4dbd77f00a76773eb8c9619cb</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

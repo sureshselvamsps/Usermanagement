@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="full_name" label="Full Name" language="en" table="x_14768_user_servi_user_onboard_jira">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>full_name</element>
+            <help/>
+            <hint/>
+            <label>Full Name</label>
+            <language>en</language>
+            <name>x_14768_user_servi_user_onboard_jira</name>
+            <plural>Full Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>rle0505</sys_created_by>
+            <sys_created_on>2019-08-09 09:44:21</sys_created_on>
+            <sys_id>1bf733efdb985810bc8b5fc74b961920</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>Full Name</sys_name>
+            <sys_package display_value="User Service Management" source="x_14768_user_servi">76fce6dbdb0f7b00a76773eb8c961972</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="User Service Management">76fce6dbdb0f7b00a76773eb8c961972</sys_scope>
+            <sys_update_name>sys_documentation_x_14768_user_servi_user_onboard_jira_full_name_en</sys_update_name>
+            <sys_updated_by>rle0505</sys_updated_by>
+            <sys_updated_on>2019-08-09 11:45:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
